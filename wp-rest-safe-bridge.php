@@ -2,7 +2,7 @@
 /**
  * Plugin Name: REST Safe Bridge
  * Plugin URI: https://lhabc.me/
- * Description: Apply safe bypass only to WordPress core REST content endpoints (/wp-json/wp/v2/*), keeping other namespaces untouched.
+ * Description: 仅对 WordPress 核心 REST 内容接口（/wp-json/wp/v2/*）启用安全旁路，其他命名空间保持不变。
  * Version: 1.0.0
  * Author: Alfred
  * License: GPL-2.0+
